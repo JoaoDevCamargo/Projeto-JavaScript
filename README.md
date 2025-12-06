@@ -1,4 +1,8 @@
+ HEAD
 #ProjetoJS - Luxo Aluguel de Iates
+
+#Projeto JavaScript - Luxo Aluguel de Iates
+ f368eabe9db606f69e5fd106d798bbe534821ce2
 
 Um site de demonstração para gerenciamento de mensagens de contato, desenvolvido em JavaScript, HTML e CSS, com área administrativa para visualizar e gerenciar mensagens enviadas pelos usuários.
 
@@ -86,4 +90,8 @@ As funções da API são essenciais:
 
 #Autor
  -Professor / Base do projeto: Gláucio Rocha
+ HEAD
  -Implementação final: Gabriele Gonçalves
+
+ -Implementação final: João Victor Sousa Camargo
+ f368eabe9db606f69e5fd106d798bbe534821ce2
