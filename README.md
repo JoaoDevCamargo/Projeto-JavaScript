@@ -1,8 +1,5 @@
- HEAD
-#ProjetoJS - Luxo Aluguel de Iates
-
 #Projeto JavaScript - Luxo Aluguel de Iates
- f368eabe9db606f69e5fd106d798bbe534821ce2
+
 
 Um site de demonstração para gerenciamento de mensagens de contato, desenvolvido em JavaScript, HTML e CSS, com área administrativa para visualizar e gerenciar mensagens enviadas pelos usuários.
 
@@ -57,7 +54,7 @@ ProjetoJS/
 
 #Como Executar
 
-1. Clone o repositório: git clone https://github.com/mgabrielegoncalves/ProjetoJS.git
+1. Clone o repositório: git clone https://github.com/JoaoDevCamargo/Projeto-JavaScript
 2. Abra o projeto no navegador:
  -Abra index.html em qualquer navegador moderno.
 3. Navegue pelas páginas:
@@ -90,8 +87,6 @@ As funções da API são essenciais:
 
 #Autor
  -Professor / Base do projeto: Gláucio Rocha
- HEAD
- -Implementação final: Gabriele Gonçalves
 
  -Implementação final: João Victor Sousa Camargo
- f368eabe9db606f69e5fd106d798bbe534821ce2
+ 
